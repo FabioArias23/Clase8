@@ -1,0 +1,74 @@
+[
+	{
+		"id": 1,
+		"product": "Azucar",
+		"price": 43,
+		"thumbnail": "Photo 1"
+	},
+	{
+		"id": 2,
+		"product": "Yerba",
+		"price": 120,
+		"thumbnail": "Photo 2"
+	},
+	{
+		"id": 3,
+		"product": "Queso rallado",
+		"price": 90,
+		"thumbnail": "Photo 3"
+	},
+	{
+		"id": 4,
+		"product": "Té",
+		"price": 55,
+		"thumbnail": "Photo 4"
+	},
+	{
+		"id": 5,
+		"product": "Fideos Moñitos",
+		"price": 34,
+		"thumbnail": "Photo 5"
+	},
+	{
+		"id": 6,
+		"product": "azucar",
+		"price": 34.5,
+		"thumbnail": "Photo 1"
+	},
+	{
+		"id": 7,
+		"product": "Edulcorante",
+		"price": 34.5,
+		"thumbnail": "Photo 7"
+	},
+	{
+		"id": 8,
+		"product": "Pure de tomate",
+		"price": 37,
+		"thumbnail": "Photo 8"
+	},
+	{
+		"id": 9,
+		"product": "Aceite Natura",
+		"price": 150,
+		"thumbnail": "Photo 9"
+	},
+	{
+		"id": 10,
+		"product": "Aceitunas verdes",
+		"price": 89,
+		"thumbnail": "Photo 10"
+	},
+	{
+		"id": 11,
+		"product": "Pan Lactal",
+		"price": 65,
+		"thumbnail": "Photo 11"
+	},
+	{
+		"id": 12,
+		"product": "Hamburguesa Paty",
+		"price": 30,
+		"thumbnail": "Photo 2"
+	}
+]
